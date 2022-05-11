@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/FilmwithAPI/static/css/main.6b2f7b31.css",
+    "main.js": "/FilmwithAPI/static/js/main.12697c39.js",
+    "static/js/787.58faa4e1.chunk.js": "/FilmwithAPI/static/js/787.58faa4e1.chunk.js",
+    "static/media/film2.jpg": "/FilmwithAPI/static/media/film2.dc298d71690c5f67a2b0.jpg",
+    "static/media/main2.jpg": "/FilmwithAPI/static/media/main2.1de6c02d63db7b94deaa.jpg",
+    "static/media/film1.jpg": "/FilmwithAPI/static/media/film1.a99c5ff383bc19e6bf98.jpg",
+    "static/media/main3.jpg": "/FilmwithAPI/static/media/main3.4f56164b704c28901cef.jpg",
+    "static/media/film3.jpg": "/FilmwithAPI/static/media/film3.778006290aeff0f6d1f1.jpg",
+    "static/media/main.jpg": "/FilmwithAPI/static/media/main.a5ec1d942a007efd0d53.jpg",
+    "index.html": "/FilmwithAPI/index.html",
+    "main.6b2f7b31.css.map": "/FilmwithAPI/static/css/main.6b2f7b31.css.map",
+    "main.12697c39.js.map": "/FilmwithAPI/static/js/main.12697c39.js.map",
+    "787.58faa4e1.chunk.js.map": "/FilmwithAPI/static/js/787.58faa4e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2f7b31.css",
+    "static/js/main.12697c39.js"
+  ]
+}
